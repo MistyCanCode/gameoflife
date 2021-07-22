@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+button {
+  font-size:large;
+  font-weight: bold;
+  text-transform: uppercase;
+  color:darkmagenta;
+  background-color:black;
+  line-height: 2rem;
+  margin: 15px auto;
+  padding: 15px;
+}
+h1{
+  margin: 5px auto;
+  padding: 15px;
+  color: black;
+  text-align: center;
+  text-transform: uppercase;
+}
